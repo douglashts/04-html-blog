@@ -10,6 +10,10 @@ const posts = [
     {
         title: 'Microsoft Edge',
         content: "Microsoft Edge is a web browser developed by Microsoft, released in 2015. Microsoft Edge replaced Internet Explorer."
+    },
+    {
+        title: 'Microsoft Opera',
+        content: "Opera is a web browser developed by Opera, released in 2015. Microsoft Edge replaced Internet Explorer."
     }
 ];
 
